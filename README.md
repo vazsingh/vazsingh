@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaz 👋
 
-I have a passion for learning and solving problems, and I'm keen to share my knowledge with others.
+I have a passion for learning and solving problems, and I'm keen to share my knowledge with others. My early career was in systems engineering but since 2020 I have been running a 3d print farm and continuously working on automating as much as possible.
 
 💬 Ask me about 3d printing
 
