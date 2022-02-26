@@ -1,6 +1,9 @@
 ### Hi there, I'm Vaz 👋
 
+I have a passion for learning and solving problems, and I'm keen to share my knowledge with others.
+
 💬 Ask me about 3d printing
+
 
 
 <!--
