@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Vaz 👋
+
+💬 Ask me about 3d printing
+
 
 <!--
 **vazsingh/vazsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
