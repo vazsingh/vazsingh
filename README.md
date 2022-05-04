@@ -11,6 +11,7 @@ I have a passion for learning and solving problems, and I'm keen to share my kno
 - [Google IT Support Professional](https://www.credly.com/badges/79112d91-1309-46c7-b693-2716845c1716)
 - [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6006df77-0c64-47cd-ad79-770b95675835)
 - [ICTTech](https://www.engc.org.uk/standards-guidance/standards/icttech-standard/)
+- [freeCodeCamp: Responsive Web Design] (https://www.freecodecamp.org/certification/vazsingh/responsive-web-design)
 
 <h2> 🤳 Connect with me:</h2>
 
