@@ -6,16 +6,19 @@ I have a passion for learning and solving problems, and I'm keen to share my kno
 
 💬 Ask me about 3d printing, raspberry pi conguration or home automation
 
-<h2> Certifications</h2>
-- Google IT Support Professional
-- Microsoft Azure Fundamentals
-- ICTTech
+<h2>📄 Certifications</h2>
+
+- [Google IT Support Professional](https://www.credly.com/badges/79112d91-1309-46c7-b693-2716845c1716)
+- [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6006df77-0c64-47cd-ad79-770b95675835)
+- [ICTTech](https://www.engc.org.uk/standards-guidance/standards/icttech-standard/)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="vazsingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/vazsingh
 
+[linkedin]: https://linkedin.com/in/vazsingh
 
 <!--
 **vazsingh/vazsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
