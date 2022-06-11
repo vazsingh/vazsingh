@@ -7,7 +7,7 @@ I have a passion for learning and solving problems, and I'm keen to share my kno
 💬 Ask me about 3d printing, raspberry pi conguration or home automation
 
 <h2>📄 Certifications</h2>
-
+![Azure Fundamentals](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 - [Google IT Support Professional](https://www.credly.com/badges/79112d91-1309-46c7-b693-2716845c1716)
 - [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6006df77-0c64-47cd-ad79-770b95675835)
 - [IBM Cloud Essentials V3](https://www.credly.com/badges/ff8e3cd0-48cb-474f-8a94-1e5c3fe20ebd)
