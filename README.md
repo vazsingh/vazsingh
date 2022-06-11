@@ -15,7 +15,9 @@ I hold the following certifications:
 * [freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/vazsingh/responsive-web-design)
 * [ICTTech (2011)](https://www.engc.org.uk/standards-guidance/standards/icttech-standard/)
 
-
+ ![Microsoft Azure Fundamentals](/azure.png)
+ ![Google IT Support Professional](/google.png)
+ ![IBM Cloud Essentials](/ibm.png)
 
 ## 🌐Connect with me
 [<img align="left" alt="VazSingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
