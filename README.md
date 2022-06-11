@@ -1,12 +1,15 @@
-<h1> Hi, I'm Vaz👋</h1> 
+# Hi, I'm Vaz 👋
+## Introduction
+Welcome to my GitHub! My name is Vaz Singh. I work as a  Desktop Support Analyst at UCA, a specialist art and design university in the south of England. 
 
-<h2>Introduction</h2>
+I have a passion for learning, and always find myself back in front of my laptop immersed in the latest tech and trying to make it work.
 
-I have a passion for learning and solving problems, and I'm keen to share my knowledge with others. My early career was in systems engineering but since 2020 I have been running a 3d print farm and continuously working on automating it as much as possible.
+I am currently studying towards a number of Microsoft Azure certifications but my primary goals for 2022 are to complete the [#100DaysOfCloud](https://www.100daysofcloud.com/) and [#CloudResumeChallenge](https://cloudresumechallenge.dev/). 
 
-💬 Ask me about 3d printing, raspberry pi conguration or home automation
+If you're interested in Azure, Cloud, DevOps, On-Prem, then [let's connect!](#Connect-with-me)
 
-<h2>📄 Certifications</h2>
+## 📄Certifications
+I hold the following certifications:
 * [Google IT Support Professional](https://www.credly.com/badges/79112d91-1309-46c7-b693-2716845c1716)
 * [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6006df77-0c64-47cd-ad79-770b95675835)
 * [IBM Cloud Essentials V3](https://www.credly.com/badges/ff8e3cd0-48cb-474f-8a94-1e5c3fe20ebd)
@@ -14,25 +17,9 @@ I have a passion for learning and solving problems, and I'm keen to share my kno
 * [freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/vazsingh/responsive-web-design)
 * [ICTTech](https://www.engc.org.uk/standards-guidance/standards/icttech-standard/)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+## 🌐Connect with me
+[<img align="left" alt="VazSingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/vazsingh
-
-[linkedin]: https://linkedin.com/in/vazsingh
-
-<!--
-**vazsingh/vazsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
