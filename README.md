@@ -4,7 +4,7 @@ Welcome to my GitHub! My name is Vaz Singh. I work as a  Desktop Support Analyst
 
 I have a passion for learning, and always find myself back in front of my laptop immersed in the latest tech and trying to make it work.
 
-I am currently studying towards a number of Microsoft Azure certifications but my primary goals for 2022 are to complete the [#100DaysOfCloud](https://www.100daysofcloud.com/) and [#CloudResumeChallenge](https://cloudresumechallenge.dev/). 
+I am currently studying towards a number of Microsoft Azure certifications but my primary goals for 2022 are to complete  [#100DaysOfCloud](https://www.100daysofcloud.com/) and the [#CloudResumeChallenge](https://cloudresumechallenge.dev/). 
 
 If you're interested in Azure, Cloud, DevOps, On-Prem, then [let's connect!](#Connect-with-me)
 
